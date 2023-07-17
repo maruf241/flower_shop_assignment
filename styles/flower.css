@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+/* shared css */
+.btn{
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 15px 35px;
+    align-items: flex-start;
+    gap: 8px;
+    margin-left: 180px;
+    margin-top: 30px;
+    border:none;
+}
